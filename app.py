@@ -147,5 +147,5 @@ dispatcher.add_handler(CommandHandler("addchatid", add_chat_id))
 dispatcher.add_handler(CommandHandler("addService", add_service, pass_args=True))
 dispatcher.add_handler(CommandHandler("updateService", update_service, pass_args=True))
 
-# Start the bot
+# Start  bot
 updater.start_polling()
