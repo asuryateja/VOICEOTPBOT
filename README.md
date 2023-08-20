@@ -4,6 +4,13 @@
 
 The FastAPI Telegram Bot is a versatile application that enables users to interact with the bot, authenticate themselves, add services, initiate calls with specific service text, and receive OTP input during the call. The application utilizes the FastAPI framework for backend development, the Telegram API for bot interaction, and Twilio for voice call functionality.
 
+## Disclaimer
+
+**ANYONE CAN CHANGE AND USE FREELY.**
+
+This application is provided for educational purposes and experimentation. The developer is not responsible for any illegal or unauthorized usage of this application. Use this application responsibly and according to the laws and regulations of your jurisdiction.
+
+
 ## Prerequisites
 
 Before you begin, ensure you have the following prerequisites in place:
@@ -62,3 +69,7 @@ Before you begin, ensure you have the following prerequisites in place:
 - **Initiate a Call**: Use `/call <phone_number> <service_name> <otp_digits>` to initiate a call with a specific service's text.
 
 - **Enter OTP**: During the call, you will be prompted to enter the OTP.
+
+## Disclaimer Reminder
+
+Please remember that this application is intended for educational purposes only. Use this application responsibly and adhere to the laws and regulations of your jurisdiction. The developer is not responsible for any misuse of this application.
